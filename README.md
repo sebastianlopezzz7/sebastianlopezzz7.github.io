@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## BASKETBAL
 
-You can use the [editor on GitHub](https://github.com/sebastianlopezzz7/sebastianlopezzz7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Basketbal is een snelle, leuke, uitdagende, gezellige en spectaculaire sport. Basketball is in Amerika uitgevonden door James Naismith, een gymnastiekleraar in Springfield. In de winter van 1891 kreeg hij van de directeur van de school de opdracht om een nieuw spel te verzinnen. Omdat het buiten erg koud was, moest het een binnenspel worden. Na lang nadenken hing hij twee perzikmanden aan het balkon op elk eind van de gymzaal en kwam hij met dertien spelregels voor het spel. Naismith maakte twee teams van vijf spelers die een voetbal door de mand moesten mikken.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Basket Ball (zo schreef je dat toen) was uitgevonden. In het begin had de mand gewoon nog een bodem waardoor het erg moeilijk was om de bal er na een score weer uit te krijgen. Pas later werd de basket vervangen door een ijzeren ring met een netje. Wist je dat… basket het Engelse woord voor mand is?
 
-### Markdown
+### Het huidige Basketbal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Het huidige basketbal wordt op bijna elk continent door zowel mannen als vrouwen beoefend. Twee teams van elk vijf aan het spel deelnemende spelers en zeven wisselspelers komen tegen elkaar uit. Het doel van het spel is de bal te veroveren en deze door een ijzeren ring - de basket - te werpen en te verhinderen dat de tegenstander hetzelfde doet. De basket heeft een doorsnede van 45 cm, hangt op een hoogte van 3 meter bevestigd aan een backboard en is voorzien van een net. Aan elk van de korte zijden van het rechthoekig basketbalveld bevindt zich een basket. Basketbal wordt zowel binnen als buiten (streetbasketball of streetball) beoefend. Binnen is de ondergrond doorgaans van hardhout of kunststof en buiten wordt op asfalt gespeeld. Internationale basketbalwedstrijden worden volgens de officiële regels van de FIBA gespeeld.
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Geschiedenis van Basketbal](http://www.das-delft.nl/wp-content/uploads/2016/10/Flyer-Geschiedenis.pdf).
 
 ### Jekyll Themes
 
