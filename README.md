@@ -1,4 +1,4 @@
-## BASKETBAL
+## Beschrijving
 
 Basketbal is een snelle, leuke, uitdagende, gezellige en spectaculaire sport. Basketball is in Amerika uitgevonden door James Naismith, een gymnastiekleraar in Springfield. In de winter van 1891 kreeg hij van de directeur van de school de opdracht om een nieuw spel te verzinnen. Omdat het buiten erg koud was, moest het een binnenspel worden. Na lang nadenken hing hij twee perzikmanden aan het balkon op elk eind van de gymzaal en kwam hij met dertien spelregels voor het spel. Naismith maakte twee teams van vijf spelers die een voetbal door de mand moesten mikken.
 
