@@ -5,12 +5,12 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=9155354fccdea0e139c04ab21fdff62bf1af8ff7">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=2261191e22588061712dea5a6743edce194de100">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Welcome to GitHub Pages | sebastianlopezzz7.github.io</title>
+<title>sebastianlopezzz7.github.io | Basketball</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Welcome to GitHub Pages" />
+<meta property="og:title" content="sebastianlopezzz7.github.io" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Basketball" />
 <meta property="og:description" content="Basketball" />
@@ -18,9 +18,9 @@
 <meta property="og:url" content="https://sebastianlopezzz7.github.io/" />
 <meta property="og:site_name" content="sebastianlopezzz7.github.io" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Welcome to GitHub Pages" />
+<meta property="twitter:title" content="sebastianlopezzz7.github.io" />
 <script type="application/ld+json">
-{"description":"Basketball","url":"https://sebastianlopezzz7.github.io/","@type":"WebSite","headline":"Welcome to GitHub Pages","name":"sebastianlopezzz7.github.io","@context":"https://schema.org"}</script>
+{"description":"Basketball","url":"https://sebastianlopezzz7.github.io/","@type":"WebSite","headline":"sebastianlopezzz7.github.io","name":"sebastianlopezzz7.github.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
@@ -51,6 +51,47 @@
     </div>
 
     <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <p>&lt;!DOCTYPE html&gt;</p>
+<html lang="en-US">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,maximum-scale=2" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=9155354fccdea0e139c04ab21fdff62bf1af8ff7" />
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Welcome to GitHub Pages | Basketbal</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Welcome to GitHub Pages" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Basketball" />
+<meta property="og:description" content="Basketball" />
+<link rel="canonical" href="https://sebastianlopezzz7.github.io/" />
+<meta property="og:url" content="https://sebastianlopezzz7.github.io/" />
+<meta property="og:site_name" content="sebastianlopezzz7.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Welcome to GitHub Pages" />
+<script type="application/ld+json">
+{"description":"Basketball","url":"https://sebastianlopezzz7.github.io/","@type":"WebSite","headline":"Welcome to GitHub Pages","name":"sebastianlopezzz7.github.io","@context":"https://schema.org"}</script>
+
+  </head>
+
+  <body>
+
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          
+
+          <h1 id="project_title">sebastianlopezzz7.github.io</h1>
+          <h2 id="project_tagline">Basketball</h2>
+
+          
+        </header>
+    </div>
+
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h2 id="welcome-to-github-pages">Welcome to GitHub Pages</h2>
