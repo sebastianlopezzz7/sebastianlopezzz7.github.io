@@ -49,10 +49,11 @@
     <img src="/assets/jeff.png">
     <h1>Sushi!</h1>
     <ul>
-      <li><a href="recepten.html">recepten</a></li>
-      <li><a href="Geschiedenis van Sushi.html">Geschiedenis van Sushi</a></li>
-      <li><a href="Sushi bestellen.html">Waar kun je het beste Sushu bestellen?</a></li>
-			<li><a href="sushi varianten.html">Sushi varianten</a></li>
+      <li><a href="beschrijvingbasketball.html">Beschrijving</a></li>
+      <li><a href="hetspel.html">Het Spel</a></li>
+      <li><a href="Internationaalbasketbal.html">Internationaal tournament</a></li>
+      <li><a href="overzicht.html.html">Overzicht van basketbalterminologie
+</a></li>
     </ul>
   </header>
   <article>
