@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
   <link href="/normalize.css" rel="stylesheet">
   <style>
