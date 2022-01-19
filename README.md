@@ -55,7 +55,7 @@
       <li><a href="
 internationaalbasketbal.html
 ">Internationaal tournament</a></li>
-			<li><a href="overzicht.html.git
+			<li><a href="overzicht.html
 ">Overzicht van Basketbalterminologie</a></li>
     </ul>
   </header>
