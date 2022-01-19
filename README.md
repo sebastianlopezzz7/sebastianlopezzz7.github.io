@@ -51,7 +51,7 @@
     <ul>
       <li><a href="beschrijvingbasketball.html">Beschrijving</a></li>
       <li><a href="hetspel.html">Het Spel</a></li>
-      <li><a href="Internationaalbasketbal.html">Internationaal tournament</a></li>
+      <li><a href="internationaalbasketbal.html">Internationaal tournament</a></li>
       <li><a href="overzicht.html">Overzicht van basketbalterminologie</a></li>
     </ul>
   </header>
