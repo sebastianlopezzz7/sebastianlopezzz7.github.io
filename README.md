@@ -46,7 +46,7 @@
 <body>
   <header>
     <img src="/assets/jeff.png">
-    <h1>Sushi!</h1>
+    <h1>Basketbal MiniWebsite</h1>
     <ul>
       <li><a href="beschrijvingbasketball.html
 ">Beschrijving</a></li>
