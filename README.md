@@ -3,9 +3,9 @@
   <style>
     header {
       text-align: center;
-      background: url('https://www.nippon.com/es/ncommon/contents/japan-data/170454/170454.jpg');
+      background: url('https://images.unsplash.com/photo-1519861531473-9200262188bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80.jpg');
       background-size: cover;
-      color: white;
+      color: gray;
     }
     a {
       color: white;
@@ -27,11 +27,11 @@
       padding: 0px 10px 0px 10px;
     }
     article {
-      max-width: 500px;
+      max-width: 700px;
       padding: 20px;
       margin: 0 auto;
     }
-    @media (max-width: 500px) {
+    @media (max-width: 700px) {
       h1 {
         font-size: 36px;
         padding: 5px;
