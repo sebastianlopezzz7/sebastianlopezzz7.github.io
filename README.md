@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
    <font face="Verdana" size="4">
   <link href="/normalize.css" rel="stylesheet">
@@ -89,3 +90,4 @@ internationaalbasketbal.html
 <a href="overzicht.html">5</a>
   </header>
 <body>
+</html>
