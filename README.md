@@ -13,7 +13,7 @@
       color: white;
     }
     h1 {
-      font-size: 300px;
+      font-size: 180px;
       
     }
     img {
@@ -75,19 +75,19 @@ internationaalbasketbal.html
   </script>
   <body>
    <header>
-<a href="https://sebastianlopezzz7.github.io/">1</a>
+<a href="https://sebastianlopezzz7.github.io/">[..1..]</a>
 
 
-<a href="beschrijvingbasketball.html">2</a>
+<a href="beschrijvingbasketball.html">[..2..]</a>
 
 
-<a href="hetspel.html">3</a>
+<a href="hetspel.html">[..3..]</a>
 
 
-<a href="internationaalbasketbal.html">4</a>
+<a href="internationaalbasketbal.html">[..4..]</a>
 
 
-<a href="overzicht.html">5</a>
+<a href="overzicht.html">[..5..]</a>
   </header>
 <body>
 </html>
