@@ -1,4 +1,5 @@
 <head>
+   <font face="Verdana" size="4">
   <link href="/normalize.css" rel="stylesheet">
   <style>
     header {
@@ -11,7 +12,8 @@
       color: white;
     }
     h1 {
-      font-size: 70px;
+      font-size: 190px;
+      
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -27,17 +29,17 @@
       padding: 0px 10px 0px 10px;
     }
     article {
-      max-width: 700px;
+      max-width: 750px;
       padding: 20px;
       margin: 0 auto;
     }
-    @media (max-width: 700px) {
+    @media (max-width: 1100px) {
       h1 {
-        font-size: 36px;
+        font-size: 86px; 
         padding: 5px;
       }
       li {
-        padding: 5px;
+        padding: 10px;
         display: block;
       }
     }
@@ -45,8 +47,7 @@
 </head>
 <body>
   <header>
-    <img src="/assets/jeff.png">
-    <h1>Basketbal MiniWebsite</h1>
+    <h1>Basketbal Website</h1>
     <ul>
       <li><a href="beschrijvingbasketball.html
 ">Beschrijving</a></li>
@@ -61,6 +62,7 @@ internationaalbasketbal.html
   </header>
   <article>
     <h2>Basketbal</h2>
+    <p>{Made by Sebastian}</p>
     <p>Basketbal is een teamsport waarbij twee teams, meestal van elk vijf spelers, tegenover elkaar staan ​​op een rechthoekig veld, met als hoofddoel het schieten van een basketbal (met een diameter van ongeveer 24 cm) door de hoepel van de verdediger ( een mand met een diameter van 18 inch (46 cm) die 10 voet (3,048 m) hoog op een bord aan elk uiteinde van de baan is gemonteerd, terwijl wordt voorkomen dat het andere team door hun eigen hoepel schiet. Een velddoelpunt is twee punten waard, tenzij het van achter de driepuntslijn wordt gemaakt, wanneer het drie punten waard is. Na een fout stopt het getimede spel en krijgt de speler die een fout heeft begaan of die is aangewezen om ee technische fout te schieten, één, twee of drie vrije worpen van één punt. Het team met de meeste punten aan het einde van het spel wint, maar als het reguliere spel afloopt terwijl de stand gelijk is, is een extra speelperiode (overuren) verplicht.</p>
 
 <p>Spelers brengen de bal naar voren door erop te stuiteren tijdens het lopen of rennen (dribbelen) of door de bal naar een teamgenoot te geven, beide vereisen een aanzienlijke vaardigheid. In de aanval kunnen spelers verschillende schoten gebruiken - de lay-up, de jump-shot of een dunk; bij de verdediging mogen ze de bal stelen van een dribbelaar, passen onderscheppen of schoten blokkeren; ofwel aanval of verdediging kan een rebound verzamelen, dat wil zeggen een gemist schot dat terugkaatst van de rand of het bord. Het is een overtreding om de pivotvoet op te tillen of te slepen zonder de bal te dribbelen, de bal te dragen of de bal met beide handen vast te houden en vervolgens het dribbelen te hervatten.</p>
@@ -70,4 +72,22 @@ internationaalbasketbal.html
       alert("Clicked!");
     });
   </script>
+<body>
+   <header>
+<a href="https://sebastianlopezzz7.github.io/">1</a>
+
+
+<a href="beschrijvingbasketball.html">2</a>
+
+
+<a href="hetspel.html">3</a>
+
+
+<a href="internationaalbasketbal.html">4</a>
+
+
+<a href="overzicht.html">5</a>
+  </header>
+
 </body>
+
