@@ -12,7 +12,7 @@
       color: white;
     }
     h1 {
-      font-size: 190px;
+      font-size: 300px;
       
     }
     img {
@@ -44,7 +44,7 @@
       }
     }
   </style>
-</head>
+<head>
 <body>
   <header>
     <h1>Basketbal Website</h1>
@@ -72,7 +72,7 @@ internationaalbasketbal.html
       alert("Clicked!");
     });
   </script>
-<body>
+  <body>
    <header>
 <a href="https://sebastianlopezzz7.github.io/">1</a>
 
@@ -88,6 +88,4 @@ internationaalbasketbal.html
 
 <a href="overzicht.html">5</a>
   </header>
-
-</body>
-
+<body>
