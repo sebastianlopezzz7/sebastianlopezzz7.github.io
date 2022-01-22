@@ -75,8 +75,6 @@ internationaalbasketbal.html
   </script>
   <body>
    <header>
-<a href="https://sebastianlopezzz7.github.io/">[..1..]</a>
-
 
 <a href="beschrijvingbasketball.html">[..2..]</a>
 
