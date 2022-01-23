@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
    <font face="Verdana" size="4">
   <link href="/normalize.css" rel="stylesheet">
