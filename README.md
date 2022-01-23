@@ -87,4 +87,3 @@ internationaalbasketbal.html
 <a href="overzicht.html">[..5..]</a>
   </header>
 <body>
-</html>
